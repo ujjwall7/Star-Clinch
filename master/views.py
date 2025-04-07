@@ -176,6 +176,5 @@ class RatingApi(APIView):
             })
 
 # abc
-# Learing Reverting
 
 
